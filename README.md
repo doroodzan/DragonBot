@@ -1,4 +1,4 @@
-# DragonSec Version 4
+# DragonBot Version 4
 
 #Installation
 ### Install dependencies.
@@ -9,8 +9,8 @@ sudo apt-get install libreadline-dev libconfig-dev libssl-dev lua5.2 liblua5.2-d
 
 
 cd $HOME
-git clone https://github.com/doroodzan/DragonSec.git
-cd DragonSec
+git clone https://github.com/doroodzan/DragonBot.git
+cd DragonBot
 chmod +x launch.sh
 ./launch.sh install
 ./launch.sh
@@ -22,13 +22,13 @@ Then Enter Your Phone And Confirmation Code
 #برای ران کردن ربات با اتو لانچ از دستورات زیر استفاده کنید.
 ###For Launch With AutoLaunch :
 ```
-chmod 777 DragonSec.sh
-screen ./DragonSec.sh
+chmod 777 DragonBot.sh
+screen ./DragonBot.sh
 ```
 و یا
 
 ```
-cd DragonSec
+cd DragonBot
 killall screen
 killall tmux
 killall telegram-cli
