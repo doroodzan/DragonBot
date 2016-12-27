@@ -5,7 +5,7 @@ function run(msg, matches)
         return ""
        end
   return [[
-📍SuperGroup Helps List For DragonSec📍
+📍SuperGroup Helps List For DragonBot📍
 〰〰〰〰〰〰〰〰
 ▪️ #helpadmin [مدیریت]
 ▪️ #helplock [قفل]
